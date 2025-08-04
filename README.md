@@ -62,7 +62,7 @@ Restart your dev server after adding the .env file.
 <img width="1920" height="1080" alt="Screenshot 2025-08-04 132958" src="https://github.com/user-attachments/assets/eaf4d529-d195-4b32-bd19-437bc56e7021" />
 
 
-https://github.com/user-attachments/assets/9eefba8a-8338-4288-8582-bc5e4c219e81
+
 
 
 
